@@ -8,7 +8,7 @@
 
 ## Deep Learning: Dog Classification
 
-In this project I am going to implement a Dog Classification by using the Convolutional Neural Networks (CNN). This project can be used in a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed. If supplied with an image of a human, the code will identify the resembling dog breed.  
+In this project I have implemented a Dog Classification by using the Convolutional Neural Networks (CNN). This project can be used in a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed. If supplied with an image of a human, the code will identify the resembling dog breed.  
 
 ![Sample Output][image1]
 
