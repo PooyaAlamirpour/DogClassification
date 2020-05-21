@@ -38,4 +38,5 @@ For using this project you should clone this repository at first.
 If your code is taking too long to run, you will need to either reduce the complexity of your chosen CNN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own. You can use Amazon Web Services to launch an EC2 GPU instance.
 
 The result of the project must be like below:
+
 ![Sample Output][image4]
